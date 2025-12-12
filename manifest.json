@@ -1,0 +1,10 @@
+{
+  "ota": [
+    {
+      "Version": 2,
+      "URL": "http://litetestformcu.atwebpages.com/firmwares/wifi_ota_app_upgrade.X.production.bin",
+      "Digest": "784c1c11f384241b8e4f92677a2460b4177e809fcbef7d6ba4408f9577a9789e",
+      "EraseVer": false
+    }
+  ]
+}
